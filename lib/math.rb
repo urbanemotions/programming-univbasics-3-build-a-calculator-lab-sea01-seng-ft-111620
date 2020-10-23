@@ -6,6 +6,7 @@ end
 
 def subtraction(num1, num2)
   subtraction_total = num1 - num2
+  puts subtraction_total
   return subtraction_total
 end
 
