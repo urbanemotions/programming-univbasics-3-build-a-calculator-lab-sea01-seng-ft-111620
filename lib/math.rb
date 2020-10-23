@@ -5,7 +5,7 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  subtraction_total = num2 - num1
+  subtraction_total = num1 - num2
   puts subtraction_total
   return subtraction_total
 end
